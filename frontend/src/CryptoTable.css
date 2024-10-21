@@ -1,0 +1,24 @@
+.heading-background {
+    background-image: url('C:\react\crypto-price-tracker\src\bitcoin-coin-closeup-circuit-board-finance-concept.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Ensures the image covers the entire area */
+    background-position: center; /* Centers the image */
+    padding: 15px 0; /* Increase height */
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-bar {
+    width: 50%;
+    border-radius: 50px; /* Fully curved edges */
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.table-container {
+    max-width: 900px;
+    margin: 20px auto;
+}

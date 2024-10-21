@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6715eb864c8fa09030441dfe"
+  },
+  "name": "Toncoin",
+  "price": 5.36,
+  "marketCap": 13620134685,
+  "change24h": 1.64289,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6715edd54c8fa09030441e14"
+  },
+  "name": "Bitcoin",
+  "price": 69012,
+  "marketCap": 1364368113144,
+  "change24h": 1.17443,
+  "__v": 0
+}]
